@@ -1,16 +1,32 @@
+---
+---
 # love-api
 simple-api
 
 2020.11.29
-
-Command-line interface\
+---
+## Command-line interface\
 install json server on our local machine
+```
 npm i -g json-server
+```
 
-run json server
+
+## run json server
+```
 json-server --watch db.json
+```
 
-create a project with heroku
-heroku create (.project name.) 
+## create a project with heroku
+```
+heroku create project-name 
+```
 
+## then
+```
 git push heroku main
+```
+---
+^^
+---
+---
